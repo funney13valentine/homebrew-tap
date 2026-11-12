@@ -6,7 +6,7 @@ cask "shotthename" do
   url "https://github.com"
   name "shotthename"
   desc "Automatic Screenshort namer app."
-  homepage "https://github.com/user-attachments/files/34724093/ShotTheName_v1.0.0.zip"
+  homepage "https://github.com/funney13valentine/shotthename/releases/download/v1.0.0/shotthename-1.0.0.zip"
 
   app "ShotTheName.app"
 end
