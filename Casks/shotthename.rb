@@ -1,7 +1,7 @@
 
 cask "shotthename" do
   version "1.0.0"
-  sha256 "8c8ce0673cac52beb734e6cce45fbc232d7d4d5c3ded82a4eff6b46136a520f8"
+  sha256 "e1e97616c4c28401fc0dac5d292852adae431418154423b060403c0f506eb67f"
 
   url "https://github.com"
   name "shotthename"
