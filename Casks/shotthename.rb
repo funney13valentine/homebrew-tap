@@ -1,12 +1,12 @@
 
 cask "shotthename" do
   version "1.0.0"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "abdeaf364af58393593fcd809db8830cdea562681f963ad981513dcf55b2f88b"
 
   url ""
   name "shotthename"
   desc "Automatic Screenshort namer app."
-  homepage "https://github.com/funney13valentine/shotthename"
+  homepage "https://github.com/user-attachments/files/34724093/ShotTheName_v1.0.0.zip"
 
-  app "shotthename.zip"
+  app "shotthename.app"
 end
